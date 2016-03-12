@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sky Tower Films]]></title>
         <description><![CDATA[Sky Tower Films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sky-tower-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 19:31:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 19:33:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sky-tower-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All Videos]]></title>
+            <description><![CDATA[<article><h1>All Videos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf29cebfdce87410d9f33d3f5ead346d0e2d7979.jpg"></article>]]></description>
+            <link>http://www.skytowerfilms.com/allvideos/</link>
+            <guid isPermaLink="false">01e34eea-e646-47ec-8fae-500a5869d470</guid>
+            <pubDate>Sat, 12 Mar 2016 19:33:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static1.squarespace.com/static/5428a3dbe4b047c33e141c9a/t/55a3eb2fe4b059c0c817fedd/1436805941394/?format=1000w">]]></description>
-            <link>undefinedwhy-sky-tower-we-are-a-unique-group-of-people-that-fell-un/index.html</link>
+            <link>https://thegrid.ai/sky-tower-films/why-sky-tower-we-are-a-unique-group-of-people-that-fell-un/index.html</link>
             <guid isPermaLink="false">599df9f5-590d-43cf-8461-3bb992abeb53</guid>
             <pubDate>Sat, 12 Mar 2016 19:30:54 GMT</pubDate>
         </item>
