@@ -1,7 +1,7 @@
 name: Sky Tower Films
 favicon: null
-layout_spectrum: 0.47175853699445724
-typography_spectrum: 0.9813059661537409
+layout_spectrum: 1
+typography_spectrum: 0.10598
 title: Sky Tower Films
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#2b2720'
+    - '#534736'
+    - '#a99d80'
+    - '#dbdbcb'
   brandStrength: 0.8376115912105888
   lightness: 0.210728719830513
-  saturation: 0.5819507986307144
-  rhythmicContrast: 0.4307185460347682
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
